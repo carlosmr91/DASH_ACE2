@@ -16,7 +16,7 @@ def configure_page():
     st.set_page_config(page_title="MONITOREO PRODUCCIÓN")
     st.markdown("<h1 style='text-align: center; color: black;'>HISTÓRICO DE PRODUCCIÓN ACE</h1>", 
                 unsafe_allow_html=True)
-    st.markdown("<h3 style='text-align: center; color: green;'>TABLERO DE PRODUCCIÓN ALOCADA AGOSTO 2024</h3>", 
+    st.markdown("<h3 style='text-align: center; color: green;'>TABLERO DE PRODUCCIÓN ALOCADA SEPTIEMBRE 2024</h3>", 
                 unsafe_allow_html=True)
     st.sidebar.markdown("<h2 style='color: gray;'>⚙️ CONTROLADORES</h2>", 
                         unsafe_allow_html=True)
